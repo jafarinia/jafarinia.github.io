@@ -1,49 +1,77 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Hossein Jafarinia
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am a researcher with a deep interest in **Machine Learning**, **Reinforcement Learning**, **Medical Imaging**, and **Computer Vision**. My work has primarily revolved around developing novel architectures and methods for **Whole Slide Image (WSI) Classification** and **Multiple Instance Learning (MIL)**, with applications in cancer detection and localization. Over the course of my academic journey, I have collaborated closely with research teams, mentored interns, and contributed to significant publications in my field.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Education
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Sharif University of Technology (SUT), Tehran, Iran
+**M.S. in Computer Engineering** (2021 – 2024)  
+- **Thesis**: Classification and Localization of Cancer in Histology Images Using Weak Label  
+  Developed a new framework featuring a novel sparse transformer-based MIL-pooling method, which achieved state-of-the-art results in WSI classification.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Bu-Ali Sina University (BASU), Hamedan, Iran
+**B.S. in Computer Engineering** (2015 – 2020)  
+- **Final Project**: Detection of Infected Blood Cells by Malaria  
+  Designed and implemented a model for detecting malaria-infected blood cells, contributing to automated diagnostics.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Publications
 
-**Markdown generator**
+### Published
+- **Jafarinia, H.**, Alipanah, A., Hamdi, D., Razavi, S., Mirzaie, N., & Rohban, M. H., "Snuffy: Efficient Whole Slide Image Classifier". *Accepted for ECCV 2024*.  
+  Achieved state-of-the-art results in WSI classification on CAMELYON16 and TCGA Lung Cancer datasets.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- **Jafarinia, H.**, Hamdi, D., Alipanah, A., Mirzaie, N., & Rohban, M. H., "MILFORMER: Weighted Dual Stream Class Centered Random Attention Multiple Instance Learning For Whole Slide Image Classification". *Accepted for AAAI W3PHIAI Workshop 2024*.  
+  Introduced a novel architecture for WSI classification, achieving top performance in classification tasks.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Under Preparation
+- Ghaznavi, M., Mirzaie, N., **Jafarinia, H.**, Soleymani Baghshah, M., & Rohban, M. H., "Loss Landscape and the Hierarchy of Mechanics". *Under preparation for ICML 2025*.  
+  Proposes a novel mapping for modeling loss landscapes, contributing to a better understanding of neural network generalization.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- **Jafarinia, H.**, Hamdi, D., Alipanah, A., & Rohban, M. H., "Augmentation Is All You Need For Cancer Detection". *Under preparation for CVPR 2025*.  
+  Focused on the challenges of WSI classification with an emphasis on data augmentation techniques.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Zohrabi, R., **Jafarinia, H.**, ..., Asgari, E., "Low-resource Persian Languages for Intelligent Systems". *Under preparation*.  
+  Contributed to the development of resources for low-resource Persian languages, including the Isfahani language.
+
+## Research Experience
+
+### RIML Lab at SUT  
+**Tehran, Iran**  
+**Supervision**: *Dr. Mohammad Hossein Rohban*  
+**Sep. 2021 - Present**  
+Dedicated my entire Master’s program to this lab, focusing on developing architectures, theories, and frameworks for gigapixel images. I led literature reviews, intern mentorship, and team management, contributing to both theoretical and practical advancements. Published two papers (AAAI 2023 workshop and ECCV 2024) with state-of-the-art results in WSI classification. Currently, I am researching WSI classification techniques with an emphasis on data augmentation, as well as exploring loss landscape analysis in neural networks.
+
+### ML Lab at SUT  
+**Tehran, Iran**  
+**Supervision**: *Dr. Mahdieh Soleymani Baghshah*  
+**Jun. 2024 - Present**  
+Currently studying the effects of the loss landscape on the generalization and robustness of deep neural networks. This research aims to develop improved mapping techniques to understand this complex concept better.
+
+### RIV Lab at BASU  
+**Tehran, Iran**  
+**Supervision**: *Dr. Hassan Khotanlou*  
+**Jul. 2019 - Sep. 2020**  
+During my undergraduate studies, I worked on advancing medical vision applications. I mastered both classic computer vision techniques and modern concepts, which led to developing a successful malaria blood cell detection model. I modified the state-of-the-art RetinaNet model to achieve exceptional performance in this challenging task.
+
+## Projects
+
+- **Implementation of SAC Algorithm for Offline Reinforcement Learning**  
+  Implemented the Soft Actor-Critic (SAC) algorithm to improve offline reinforcement learning performance, with extensive evaluation on benchmark datasets.
+
+- **Contrastive Language-Image Pretraining (CLIP) for Histology WSIs**  
+  Adapted OpenAI's CLIP model for histology whole slide image classification, enabling the model to leverage text-image pairings for improved image understanding.
+
+- **Cancer Mutation Detection with Microarray Data**  
+  Developed a machine learning pipeline for detecting cancer mutations based on microarray gene expression data.
+
+- **Small Molecule Quantum Feature Extraction and Target Protein Docking**  
+  Focused on quantum feature extraction in small molecules and performed docking simulations to predict interactions between target proteins and small molecules.
