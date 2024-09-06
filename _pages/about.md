@@ -9,7 +9,7 @@ redirect_from:
 
 # Hossein Jafarinia
 
-I am a researcher with a deep interest in **Machine Learning**, **Reinforcement Learning**, **Medical Imaging**, and **Computer Vision**. My work has primarily revolved around developing novel architectures and methods for **Whole Slide Image (WSI) Classification** and **Multiple Instance Learning (MIL)**, with applications in cancer detection and localization. Over the course of my academic journey, I have collaborated closely with research teams, mentored interns, and contributed to significant publications in my field.
+I am a researcher with a deep interest in **Machine Learning**, **Reinforcement Learning**, **Medical Image Analysis**, and **Computer Vision**. My work has primarily revolved around developing novel architectures and methods for **Whole Slide Image (WSI) Classification** and **Multiple Instance Learning (MIL)**, with applications in cancer detection and localization. Over the course of my academic journey, I have collaborated closely with research teams, mentored interns, and contributed to significant publications in my field.
 
 ## Education
 
