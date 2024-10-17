@@ -26,20 +26,20 @@ I am a researcher with a deep interest in **Machine Learning**, **Reinforcement 
 ## Publications
 
 ### Published
-- **Jafarinia, H.**, Alipanah, A., Hamdi, D., Razavi, S., Mirzaie, N., & Rohban, M. H., "Snuffy: Efficient Whole Slide Image Classifier". *Accepted for ECCV 2024*.  
+- "Snuffy: Efficient Whole Slide Image Classifier". *Accepted for ECCV 2024*.  
   Achieved state-of-the-art results in WSI classification on CAMELYON16 and TCGA Lung Cancer datasets.
 
-- **Jafarinia, H.**, Hamdi, D., Alipanah, A., Mirzaie, N., & Rohban, M. H., "MILFORMER: Weighted Dual Stream Class Centered Random Attention Multiple Instance Learning For Whole Slide Image Classification". *Accepted for AAAI W3PHIAI Workshop 2024*.  
+- "MILFORMER: Weighted Dual Stream Class Centered Random Attention Multiple Instance Learning For Whole Slide Image Classification". *Accepted for AAAI W3PHIAI Workshop 2024*.  
   Introduced a novel architecture for WSI classification, achieving top performance in classification tasks.
 
 ### Under Preparation
-- Ghaznavi, M., Mirzaie, N., **Jafarinia, H.**, Soleymani Baghshah, M., & Rohban, M. H., "Loss Landscape and the Hierarchy of Mechanics". *Under preparation for ICML 2025*.  
+- "Loss Landscape and the Hierarchy of Mechanics". *Under preparation for ICML 2025*.  
   Proposes a novel mapping for modeling loss landscapes, contributing to a better understanding of neural network generalization.
 
-- **Jafarinia, H.**, Hamdi, D., Alipanah, A., & Rohban, M. H., "Augmentation Is All You Need For Cancer Detection". *Under preparation for CVPR 2025*.  
+- "Augmentation Is All You Need For Cancer Detection". *Under preparation for CVPR 2025*.  
   Focused on the challenges of WSI classification with an emphasis on data augmentation techniques.
 
-- Zohrabi, R., **Jafarinia, H.**, ..., Asgari, E., "Low-resource Persian Languages for Intelligent Systems". *Under preparation*.  
+- "Low-resource Persian Languages for Intelligent Systems". *Under preparation*.  
   Contributed to the development of resources for low-resource Persian languages, including the Isfahani language.
 
 ## Research Experience
