@@ -33,14 +33,14 @@ I am a researcher with a deep interest in **Machine Learning**, **Reinforcement 
   Introduced a novel architecture for WSI classification, achieving top performance in classification tasks.
 
 ### Under Preparation
-- "Loss Landscape and the Hierarchy of Mechanics". *Under preparation for ICML 2025*.  
-  Proposes a novel mapping for modeling loss landscapes, contributing to a better understanding of neural network generalization.
+- "A Study on Augmentation Techniques for Whole Slide Image Analysis". *Under preparation for ICML 2025*.  
+  Focusing on Whole Slide Image classification with an emphasis on augmentation techniques.
 
-- "Augmentation Is All You Need For Cancer Detection". *Under preparation for CVPR 2025*.  
-  Focused on the challenges of WSI classification with an emphasis on data augmentation techniques.
+- "Neural Collapse and Group Robustness". *Under preparation for NeurIPS 2025*.  
+  Proposing a novel method to address Deep Neural Network generalization and robustness through the lens of Neural Collapse.
 
 - "Low-resource Persian Languages for Intelligent Systems". *Under preparation*.  
-  Contributed to the development of resources for low-resource Persian languages, including the Isfahani language.
+  Developed linguistic materials for Isfahani, a low-resource Persian dialect, and managed resources for other underrepresented Persian languages as part of an effort to document and publish them.
 
 ## Research Experience
 
