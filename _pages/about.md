@@ -48,13 +48,13 @@ I am a researcher with a deep interest in **Machine Learning**, **Reinforcement 
 **Tehran, Iran**  
 **Supervision**: *Dr. Mohammad Hossein Rohban*  
 **Sep. 2021 - Present**  
-Dedicated my entire Master’s program to this lab, focusing on developing architectures, theories, and frameworks for gigapixel images. I led literature reviews, intern mentorship, and team management, contributing to both theoretical and practical advancements. Published two papers (AAAI 2023 workshop and ECCV 2024) with state-of-the-art results in WSI classification. Currently, I am researching WSI classification techniques with an emphasis on data augmentation, as well as exploring loss landscape analysis in neural networks.
+Dedicated my entire Master’s program to this lab, focusing on developing architectures, theories, and frameworks for gigapixel images. I led literature reviews, intern mentorship, and team management, contributing to both theoretical and practical advancements. Published two papers (AAAI 2023 workshop and ECCV 2024) with state-of-the-art results in WSI classification. Currently, I am researching WSI classification techniques with an emphasis on data augmentation, as well as exploring Neural Collapse in neural networks.
 
 ### ML Lab at SUT  
 **Tehran, Iran**  
 **Supervision**: *Dr. Mahdieh Soleymani Baghshah*  
 **Jun. 2024 - Present**  
-Currently studying the effects of the loss landscape on the generalization and robustness of deep neural networks. This research aims to develop improved mapping techniques to understand this complex concept better.
+Currently studying the effects of the Neural Collapse on the generalization and robustness of deep neural networks. This research aims to develop improved techniques to understand this complex concept better. 
 
 ### RIV Lab at BASU  
 **Tehran, Iran**  
