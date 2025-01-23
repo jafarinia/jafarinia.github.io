@@ -33,7 +33,7 @@ I am a researcher with a deep interest in **Machine Learning**, **Reinforcement 
   Introduced a novel architecture for WSI classification, achieving top performance in classification tasks.
 
 ### Under Preparation
-- "A Study on Augmentation Techniques for Whole Slide Image Analysis". *Under preparation for ICML 2025*.  
+- "A Study on Augmentation Techniques for Whole Slide Image Analysis". *Under preparation for ICCV 2025*.  
   Focusing on Whole Slide Image classification with an emphasis on augmentation techniques.
 
 - "Neural Collapse and Group Robustness". *Under preparation for NeurIPS 2025*.  
