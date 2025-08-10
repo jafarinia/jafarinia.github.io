@@ -43,13 +43,13 @@ I am a researcher with a deep interest in **Computer Vision**, **Medical Image A
 - "Low-resource Persian Languages for Intelligent Systems". *Under preparation*.  
   Developed linguistic materials for Isfahani, a low-resource Persian dialect, and managed resources for other underrepresented Persian languages as part of an effort to document and publish them.
 
-## Research Experience
+<!-- ## Research Experience -->
 
-### RIML Lab at SUT  
+<!-- ### RIML Lab at SUT  
 **Tehran, Iran**  
 **Supervision**: *Dr. Mohammad Hossein Rohban*  
 **Sep. 2021 - Present**  
-Dedicated my entire Master’s program to this lab, focusing on developing architectures, theories, and frameworks for gigapixel images. I led literature reviews, intern mentorship, and team management, contributing to both theoretical and practical advancements. Published two papers (AAAI 2023 workshop and ECCV 2024) with state-of-the-art results in WSI classification. Currently, I am researching WSI classification techniques with an emphasis on data augmentation, as well as exploring Neural Collapse in neural networks.
+Dedicated my entire Master’s program to this lab, focusing on developing architectures, theories, and frameworks for gigapixel images. I led literature reviews, intern mentorship, and team management, contributing to both theoretical and practical advancements. Published two papers (AAAI 2023 workshop and ECCV 2024) with state-of-the-art results in WSI classification. Currently, I am researching WSI classification techniques with an emphasis on data augmentation, as well as exploring Neural Collapse in neural networks. -->
 
 <!-- ### ML Lab at SUT  
 **Tehran, Iran**  
@@ -57,11 +57,11 @@ Dedicated my entire Master’s program to this lab, focusing on developing archi
 **Jun. 2024 - Present**  
 Currently studying the effects of the Neural Collapse on the generalization and robustness of deep neural networks. This research aims to develop improved techniques to understand this complex concept better.  -->
 
-### RIV Lab at BASU  
+<!-- ### RIV Lab at BASU  
 **Tehran, Iran**  
 **Supervision**: *Dr. Hassan Khotanlou*  
 **Jul. 2019 - Sep. 2020**  
-During my undergraduate studies, I worked on advancing medical vision applications. I mastered both classic computer vision techniques and modern concepts, which led to developing a successful malaria blood cell detection model. I modified the state-of-the-art RetinaNet model to achieve exceptional performance in this challenging task.
+During my undergraduate studies, I worked on advancing medical vision applications. I mastered both classic computer vision techniques and modern concepts, which led to developing a successful malaria blood cell detection model. I modified the state-of-the-art RetinaNet model to achieve exceptional performance in this challenging task. -->
 
 ## Projects
 
