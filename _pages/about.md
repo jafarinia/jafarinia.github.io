@@ -26,11 +26,11 @@ I am a researcher with a deep interest in **Computer Vision**, **Medical Image A
 ## Publications
 
 ### Published
-- "Navigating the MIL Trade-Off: Flexible Pooling for Whole-Slide Image Classification." *Accepted for NeurIPS 2025*
-  Analyzing the implicit regularization in training in the presence of spurious correlation.
-
-- "The Silent Helper: How Implicit Regularization Enhances Group Robustness." *Accepted for ICML 2025 Workshop*
+- "Navigating the MIL Trade-Off: Flexible Pooling for Whole-Slide Image Classification." *Accepted for NeurIPS 2025*.  
   Focusing on Whole Slide Image classification with an emphasis on representation and classical methods.
+
+- "The Silent Helper: How Implicit Regularization Enhances Group Robustness." *Accepted for ICML 2025 Workshop*.  
+  Analyzing the implicit regularization in training neural nets in the presence of spurious correlation.
 
 - "Snuffy: Efficient Whole Slide Image Classifier". *Accepted for ECCV 2024*.  
   Achieved state-of-the-art results in WSI classification on CAMELYON16 and TCGA Lung Cancer datasets.
@@ -39,10 +39,10 @@ I am a researcher with a deep interest in **Computer Vision**, **Medical Image A
   Introduced a novel architecture for WSI classification, achieving top performance in classification tasks.
 
 ### Submitted
-- "ON THE ROLE OF IMPLICIT REGULARIZATION OF STOCHASTIC GRADIENT DESCENT IN GROUP ROBUSTNESS." *ICLR 2026*
+- "ON THE ROLE OF IMPLICIT REGULARIZATION OF STOCHASTIC GRADIENT DESCENT IN GROUP ROBUSTNESS." *ICLR 2026*.  
   A theoretical and empirical study of SGD’s implicit regularization when spurious correlations hinder out-of-distribution generalization.
 
-- "ASC: Learning Augmentation Severity-Consistent Representations Improves Generalization via Augmentation Search" *WACV 2026*
+- "ASC: Learning Augmentation Severity-Consistent Representations Improves Generalization via Augmentation Search" *WACV 2026*.  
   Advancing representation learning and augmentation search in standard WSI classification pipelines.
   
 
